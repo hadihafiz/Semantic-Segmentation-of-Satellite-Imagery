@@ -1,7 +1,7 @@
 # **Semantic-Segmentation-of-Satellite-Imagery**
 
 ## **Data Folder**
-Folder that contains satellite images that will be used as the data.
+Folder that contains satellite images used for training.
 
 ### (1) drone
 Drone images from SmartMap Database.
